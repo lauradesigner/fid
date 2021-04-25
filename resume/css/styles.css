@@ -3,11 +3,23 @@
 body {
   margin: 0px;
   padding: 0px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  line-height: 25px;
 }
 a:hover {
   text-decoration: none;
 }
-
+img {
+  width:250px;
+  aspect-radio: auto 250 / 250;
+  height: 250px;
+}
+h1 {
+  font-family: 'Caveat', cursive;
+  font-size: 50px;
+  font-weight: 400;
+}
 .content-wrap {
   width: 900px;
   margin: 0 auto;
@@ -21,9 +33,13 @@ a:hover {
   background: #2F3061;
   color: #F7FFF7;
 }
-#maintitle {
-  font-size: 40px;
+.image img {
+  float: left;
+  margin-right: 20px;
 }
+
+
+
 
 
 
