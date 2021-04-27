@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arbutus&display=swap');
+
+nav ul {
+  display: inline-block;
+  list-style-type: none;
+  padding: 6px;
+}
+
+nav li {
+  display: inline-block;
+  padding: 6px;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a{
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  color: blue;
+}
+
+nav a:hover {
+  color: yellow;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+dt, dd {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2, h3 {
+font-family: 'Orelega One', cursive;
+}
+
+h1 {
+font-family: 'Arbutus', cursive;
+color: #BC2E3E
+}

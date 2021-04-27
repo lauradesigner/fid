@@ -1,0 +1,21 @@
+h1 {
+  color: orange;
+  border-bottom: 1px solid orange;
+}
+h2 {
+  color: orange;
+  margin-left: 100px;
+}
+p {
+  font-size: large;
+  margin-left: 100px;
+}
+img {
+  float: right;
+  margin: 0 12px;
+}
+
+body {
+  background-color: #EBE49C;
+  margin: 0 10%;
+  }
